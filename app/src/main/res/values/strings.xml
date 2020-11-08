@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Barcode Scanner Sample</string>
+    <string name="success_title">You successfully scanned:</string>
+    <string name="back_to_scanner">Back to scanner</string>
+</resources>
